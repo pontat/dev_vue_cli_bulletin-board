@@ -28,7 +28,7 @@
 <script>
 export default {
   props: {
-    bulletinBoard: Object
+    posts: Object
   }
 };
 </script>
